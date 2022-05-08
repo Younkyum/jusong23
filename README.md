@@ -12,24 +12,39 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=for-the-badge&logo=CreateReactApp&logoColor=black">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
+
   
-  <h4>About me</h4>
+  <h3>About me</h3>
 
 
   <a href="https://cake-tarn-9a3.notion.site/Song-1cb3851c796f44f09a0d5f8b764a2748">
   <img
-  src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=notion&link=https://cake-tarn-9a3.notion.site/Song-1cb3851c796f44f09a0d5f8b764a2748"
+  src="http://img.shields.io/badge/Notion-000000?style=flat&logo=notion&link=https://cake-tarn-9a3.notion.site/Song-1cb3851c796f44f09a0d5f8b764a2748"
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a> <a href="https://instagram.com/song._.327">
+  </a>
+  
+  <a href="https://instagram.com/song._.327">
   <img
-  src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/song._.327"
+  src="http://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/song._.327"
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a> <a href="mailto:qodwnskfh1@gmail.com">
+  </a> 
+  
+  <a href="mailto:qodwnskfh1@gmail.com">
   <img
   src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qodwnskfh1@gmail.com"
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
-  
+
+  <a href="https://velog.io/@jusong23">
+  <img
+  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jusong23"
+  style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
   
 
   
